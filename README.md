@@ -9,6 +9,6 @@ To ensure we only allow access to those users who have completed MIMIC credentia
 ## Dataset
 Once you have gained MIMIC access and connected to Google Cloud, you should be able to access the dataset at [this link](https://console.cloud.google.com/storage/browser/mimic_nlp_annotations). 
 
-This version of the dataset has been collated from the two annotators, and we wanted to provide it for exploration. We plan to release a more thorough version with more fleshed out synonyms and closely adjudicated spans in September. To be contacted when this is released, please fill out [this Google form](https://forms.gle/svNwWntkyqAHFFq37) with your email, and we will get in touch!
+This version of the dataset has been collated from the two annotators, and we wanted to provide it for exploration. We plan to release a more thorough version with more fleshed out synonyms later in 2020. To be contacted when this is released, please fill out [this Google form](https://forms.gle/svNwWntkyqAHFFq37) with your email, and we will get in touch!
 
 If you have any questions, please contact Monica Agrawal at magrawal [at] mit [dot] edu
